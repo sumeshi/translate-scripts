@@ -1,6 +1,6 @@
 # translate-scripts
 AI-Powered translation script samples.
 
-## Models
-### Helsinki-NLP/opus-mt-en-ja
-https://huggingface.co/Helsinki-NLP/opus-mt-en-jap/tree/main
+```
+$ ffmpeg -f lavfi -i color=c=black:s=1280x720 -i input.mp3 -vf "subtitles=input.srt" -c:v libx264 -c:a copy -shortest output.mp4
+```
